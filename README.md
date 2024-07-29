@@ -8,7 +8,7 @@ To run this model you'll need to install the following dependencies or modules t
 
 * opencv-python, numpy, playsound
 * The yolov3.cfg  and coco.names and alarm.wav are provided in the repo by default.
-* yolov3.weights file can be found to download here{https://www.kaggle.com/ datasets/shivam316/yolov3-weights}
+* yolov3.weights file can be found to download here{https://www.kaggle.comdatasets/shivam316/yolov3-weights}
 * Place these in your root directory to avoid  any errors
 
 # How to use this? 
